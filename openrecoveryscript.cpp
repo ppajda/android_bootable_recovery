@@ -311,7 +311,7 @@ int OpenRecoveryScript::run_script_file(void) {
 				} else
 					strcpy(mount, value);
 				if (PartitionManager.UnMount_By_Path(mount, true))
-					gui_msg(Msg("unmounted=Unounted '{1}'")(mount));
+					gui_msg(Msg("unmounted=Unmounted '{1}'")(mount));
 			} else if (strcmp(command, "set") == 0) {
 				// Set value
 				size_t len = strlen(value);
