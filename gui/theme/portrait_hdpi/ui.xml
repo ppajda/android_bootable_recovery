@@ -118,7 +118,7 @@
 		<variable name="row3_header_y" value="90"/>
 		<variable name="row4_header_y" value="168"/>
 		<variable name="row1_y" value="256"/>
-		<variable name="row1a_y" value="256"/>
+		<variable name="row1a_y" value="270"/>
 		<variable name="row2_y" value="320"/>
 		<variable name="row2a_y" value="352"/>
 		<variable name="row_tab_y" value="346"/>
